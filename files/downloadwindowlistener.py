@@ -5,3 +5,4 @@ public interface DownloadWindowListener {
 
 	public void hidePrgWnd(String id);
 }
+$

@@ -1554,3 +1554,4 @@ screen popup():
     python:
         renpy.notify('New achievement unlocked')
     timer 3.25 action Hide('popup')
+$

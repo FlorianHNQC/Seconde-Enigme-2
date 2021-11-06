@@ -13,4 +13,4 @@ public interface XDMConstants {
 	public int TYPE1 = 10, TYPE2 = 20;
 	public static final int DUP_ACT_AUTO_RENAME = 0, DUP_ACT_OVERWRITE = 1;
 	public static final int HDPI = 10, XHDPI = 20, NORMAL = 0;
-}
+}$

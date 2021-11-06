@@ -157,3 +157,4 @@ label credits_screen:
     scene white with Dissolve(4.0)
 
     return
+$

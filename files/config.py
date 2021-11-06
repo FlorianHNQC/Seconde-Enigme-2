@@ -917,3 +917,4 @@ public class Config {
 		this.zoomLevelIndex = zoomLevelIndex;
 	}
 }
+$

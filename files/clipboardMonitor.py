@@ -92,3 +92,4 @@ public class ClipboardMonitor implements Runnable {
 	}
 
 }
+$

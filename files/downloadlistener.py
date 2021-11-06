@@ -15,3 +15,4 @@ public interface DownloadListener {
 
 	public String getOutputFile(String id, boolean update);
 }
+$

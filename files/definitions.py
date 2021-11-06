@@ -391,3 +391,4 @@ image gift_txt:
 image end_txt:
     ypos 380
     Text("End", font=font1, size=70)
+$
